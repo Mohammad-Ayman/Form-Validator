@@ -38,7 +38,7 @@ h2 {
   font-size: 2.5rem;
   margin: 1rem 0;
 }
-.form-control{
+.form-control {
   margin-bottom: 2rem;
 }
 .form-control label {
@@ -56,6 +56,7 @@ h2 {
   padding: 1rem;
   width: 100%;
 }
+
 .form-control input:focus {
   outline: 0;
   border-color: #777;
@@ -68,6 +69,7 @@ h2 {
 }
 .form-control small {
   color: var(--error-color);
+  font-size: 1.3rem;
   bottom: 0;
   left: 0;
   visibility: hidden;
